@@ -29,7 +29,7 @@ Atrributes:
 - `node['spark']['installation_method']` - Initial support just for prebuilt packages
 
 - `node['spark']['url']` - Package url, by default version
-  1.2.1 prebuilt for hadoop 2.4 and later http://d3kbcqa49mib13.cloudfront.net/spark-1.2.1-bin-hadoop2.4.tgz
+  1.2.1 prebuilt for hadoop 2.4 and later 
 
 - `node['spark']['install_directory']` - by default /opt
 
